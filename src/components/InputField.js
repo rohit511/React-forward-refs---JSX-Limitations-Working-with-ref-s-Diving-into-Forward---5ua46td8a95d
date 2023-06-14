@@ -11,4 +11,3 @@ const InputField = forwardRef((props, ref) => {
 
 export default InputField;
 
-inputfield.js
